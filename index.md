@@ -41,7 +41,7 @@
             <div class="container">
                 <div class="masthead-subheading">ようこそ　私たちの AXIS CULT!</div>
                 <div class="masthead-heading text-uppercase">これ、石鹼は食べできますよ！</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">入教嘛 O.- </a>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">入教嘛 ._. </a>
             </div>
         </header>
         <!-- Services-->
