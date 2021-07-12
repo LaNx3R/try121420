@@ -1260,6 +1260,13 @@ progress {
     width: 33.33333333%;
   }
 
+.circle-image{
+	width: 100px;
+	border-radius: 50%;
+	border: 1px solid rgba(255,0,0,1.00);
+}
+
+
   .col-md-5 {
     flex: 0 0 auto;
     width: 41.66666667%;
