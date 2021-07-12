@@ -1,12 +1,12 @@
-<svg width="228.66000000000003" height="39.08" xmlns="http://www.w3.org/2000/svg">
+<svg width="186.99999999999997" height="39.08" xmlns="http://www.w3.org/2000/svg">
 
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <rect fill="none" id="canvas_background" height="41.08" width="189" y="-1" x="-1"/>
  </g>
  <g>
   <title>Layer 1</title>
   <rect transform="rotate(45 25.383890151977553,19.865776062011715) " id="svg_18" height="13" width="13" y="13.8968" x="83.812576" stroke-opacity="null" stroke-width="null" stroke="null" fill="#4c4c4c"/>
-  <text style="cursor: move;" stroke="null" transform="matrix(1.6605374813079834,0,0,1,-6.264785174280405,0) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_20" y="24.814611" x="23.749087" stroke-opacity="null" stroke-width="0" fill="#56aaff">Axis      cult</text>
+  <text style="cursor: move;" stroke="null" transform="matrix(1.6605374813079834,0,0,1,-6.264785174280405,0) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_20" y="24.814611" x="18.885276" stroke-opacity="null" stroke-width="0" fill="#56aaff">Axis   cult</text>
  </g>
 </svg>
